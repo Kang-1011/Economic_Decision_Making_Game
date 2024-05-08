@@ -1,0 +1,37 @@
+1. What is a Futures Contract?
+A futures contract is a standardized legal agreement to buy or sell a particular asset at a predetermined price at a specified time in the future. Tradable assets can be commodities (such as agricultural products, energy, metals) or financial instruments (currencies, stock indexes).
+
+2. Function of the Futures Market
+Price Discovery: The futures market reflects market expectations of future prices, helping the economy in price formation.
+Risk Management: Businesses and investors use futures contracts to hedge or reduce the risk of price volatility.
+
+3. Execution of Trades
+Futures contracts are typically traded on specialized futures exchanges.
+
+4. What is Margin?
+In futures market, investors do not need to pay the full value of a contract to buy or sell futures contracts. Instead, they only need to deposit a small amount of funds, known as "margin," as a guarantee to fulfill the contract. This margin is usually a small percentage of the contract's total value.
+
+5. What is Leverage in Futures?
+Futures trading is leveraged trading, where a small amount of margin controls a large value of assets, thereby resulting in significant profit or loss potential.
+
+6. Leverage Effect in Futures Trading
+Because only a small portion of the contract value is paid to control the full contract, investors' profits or losses are calculated based on the full contract value, not just the margin they have actually invested. This means that even small market movements can lead to relatively large profits or losses.
+
+7. How are Profits and Losses Calculated in Futures Trading?
+At contract expiration, the profits and losses are calculated based on the difference between the contract price and the market price.
+
+8. How to Manage Leverage Risk
+Stoploss orders: Setting stoploss orders can help limit potential losses by automatically closing positions at a predetermined price.
+Risk management: Investors need to diversify their investment products and assets to avoid putting all their eggs in one basket.
+
+9. The Law of Supply and Demand in Futures
+Futures prices are directly influenced by changes in supply and demand. If the supply of a particular commodity decreases or its demand increases, its futures price typically rises, and vice versa.
+
+10. Understanding Price Elasticity
+Price elasticity describes the sensitivity of demand or supply to price changes. In the futures market, understanding the price elasticity of demand for a commodity can help predict the impact of price changes on demand levels.
+
+11. Interesting Knowledge: Herd Behavior
+Herd behavior refers to individuals overly relying on others' actions in decision making, rather than their own information or analysis. In the futures market, this can lead to investors blindly following others' buy and sell decisions, rather than based on their own understanding of market fundamentals. This behavior can drive prices up or down, away from their true value, creating bubbles or crashes.
+
+12. Interesting Knowledge: Overconfidence
+Overconfidence refers to people being overly confident in their ability to predict market trends, mistakenly believing they understand the market better than they actually do. This bias can lead to excessive trading and taking on too much risk, as investors may underestimate the likelihood of making incorrect predictions and the potential losses.

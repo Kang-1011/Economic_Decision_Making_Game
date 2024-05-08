@@ -1,0 +1,3 @@
+rep "GRP Project@grp-group4@cloud.cn"
+  path "/"
+    smartbranch "/main"

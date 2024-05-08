@@ -1,0 +1,34 @@
+{
+    "Balance": [
+        {
+            "Ticker": "SZ677",
+            "Quantity": 0.0,
+            "Cost": 0.0,
+            "RealizedProfit": 0.0
+        },
+        {
+            "Ticker": "SZ002",
+            "Quantity": 0.0,
+            "Cost": 0.0,
+            "RealizedProfit": 0.0
+        },
+        {
+            "Ticker": "SZ267",
+            "Quantity": 0.0,
+            "Cost": 0.0,
+            "RealizedProfit": 0.0
+        },
+        {
+            "Ticker": "SH340",
+            "Quantity": 0.0,
+            "Cost": 0.0,
+            "RealizedProfit": 0.0
+        },
+        {
+            "Ticker": "SH600",
+            "Quantity": 0.0,
+            "Cost": 0.0,
+            "RealizedProfit": 0.0
+        }
+    ]
+}

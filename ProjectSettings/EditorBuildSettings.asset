@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: ef5ad14006a08fe49a888aef86a25980
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Real Estate/RealEstate_Main.unity
+    guid: c7f204f639a77e246bdb0c9ab6f5d121
+  - enabled: 1
+    path: Assets/Scenes/Bank/Bank_Main.unity
+    guid: 81f35889eabeb404ea817db1e2370a3e
+  - enabled: 1
+    path: Assets/Scenes/Bank/Financial/Financial_Main.unity
+    guid: 1bcd587084a38a54491d2633d8a24d41
+  - enabled: 1
+    path: Assets/Scenes/Bank/Deposit_Withdraw/Deposit_Withdraw_Main.unity
+    guid: c248258cb230aa64d95bc4b95fbf3c61
+  - enabled: 1
+    path: Assets/Scenes/Bank/Deposit_Withdraw/Deposit_Main.unity
+    guid: 01d401eaa01481744bba647f3e682bb2
+  - enabled: 1
+    path: Assets/Scenes/Bank/Deposit_Withdraw/Time_Deposit/Time_Deposit.unity
+    guid: 8f765e544067b8a4586691b0b476f0e5
+  - enabled: 1
+    path: Assets/Scenes/Bank/Deposit_Withdraw/Withdraw_Main.unity
+    guid: 9c3a1342ecdc2854e9e530bd3e6c5b9b
+  - enabled: 1
+    path: Assets/Scenes/Bank/Financial/Purchase/Purchase_Main.unity
+    guid: 0f83abe2aca949f40996fd084f434dd0
+  - enabled: 1
+    path: Assets/Scenes/Bank/Financial/Purchase/Investment1.unity
+    guid: 01be443450a7e4146b7bd16e0c2ed846
+  - enabled: 1
+    path: Assets/Scenes/Bank/Financial/Purchase/Investment2.unity
+    guid: fc7c3058bfa212049a2a2621282048e6
+  - enabled: 1
+    path: Assets/Scenes/Bank/Financial/Purchase/Investment3.unity
+    guid: e30a7e3ca91f043438ed5c37b1abccb7
+  - enabled: 1
+    path: Assets/Scenes/Bank/Financial/Redemption_Main.unity
+    guid: 4bc6c3c385d9c6649816fd6cd5d9f3b9
+  - enabled: 1
+    path: Assets/Scenes/Bank/Deposit_Withdraw/Current_Deposit/Current_Deposit.unity
+    guid: df395311cb7f0b7418e49422407fcdac
+  - enabled: 1
+    path: Assets/Scenes/Bank/Loan/Loan.unity
+    guid: fa676697af4830144a643b76a2860156
+  - enabled: 1
+    path: Assets/Scenes/Bank/Loan/Loan_Main.unity
+    guid: 237a2a573362a394db21597817e7eb49
+  - enabled: 1
+    path: Assets/Scenes/Bank/Loan/Loan/Make_a_Loan.unity
+    guid: 6d7ea782685095e4e8323b4f491fdf5e
+  - enabled: 1
+    path: Assets/Scenes/Futures_Stock/Futures_Stock.unity
+    guid: f98955cd01512485d8e677de8c022210
+  - enabled: 1
+    path: Assets/Scenes/Bank/Loan/Loan/House Mortgage Loan/Choose_a_Property.unity
+    guid: b5b1d6cca03c4d4478188db0343b4843
+  - enabled: 1
+    path: Assets/Scenes/Bank/Loan/Loan/House Mortgage Loan/House_Loan.unity
+    guid: 71d78f43839f44d40970f9081b176244
+  - enabled: 1
+    path: Assets/Scenes/Bank/Loan/Loan/Personal Credit Loan/Personal_Loan.unity
+    guid: df8f2d489a426b045adde35d7e6746e8
+  - enabled: 1
+    path: Assets/Scenes/Real Estate/Scenes/Investment.unity
+    guid: 68f1d33f8400b411782c91523baaff4a
+  - enabled: 1
+    path: Assets/Scenes/Real Estate/Scenes/Residential.unity
+    guid: 7752caf64397e466d9412346c2607319
+  - enabled: 1
+    path: Assets/Scenes/Real Estate/Scenes/HouseA.unity
+    guid: 94f90dda0f98a4139a0f4df272e6f64f
+  - enabled: 1
+    path: Assets/Scenes/Real Estate/Scenes/HouseB.unity
+    guid: 8cb11b368ef9a40b1a7f6b275e563e97
+  - enabled: 1
+    path: Assets/Scenes/Real Estate/Scenes/HouseC.unity
+    guid: 3b896294f19544f63b6fc50be1f9f94c
+  - enabled: 1
+    path: Assets/Scenes/Real Estate/Scenes/HouseD.unity
+    guid: 70155e2de508e493f8fc8f7411ca8e2d
+  - enabled: 1
+    path: Assets/Scenes/Portfolio.unity
+    guid: 028627f91b375a842b1af2f850359ec7
+  - enabled: 1
+    path: Assets/Scenes/Bank/Financial/Financial.unity
+    guid: 58080a7b23a3833428d6cfc78cf246da
+  - enabled: 1
+    path: Assets/Scenes/Bank/Loan/Repay_Main.unity
+    guid: 6f1cc692459e51b43805e563b85ea7a4
+  - enabled: 1
+    path: Assets/Scenes/News.unity
+    guid: feb370a4a783c6448929be156760fa1c
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 09a3081ae650a1542916b7c080755746
+  m_configObjects: {}
